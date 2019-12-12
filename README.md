@@ -60,7 +60,7 @@ $ yarn start # start app
 
 - [x] transfer:
 
-![transfer](https://github.com/lathifinch/OPO_digital_payment/blob/master/images_readme/transfer.jpeg)
+![transfer](https://github.com/lathifinch/OPO_digital_payment/blob/master/images_readme/transfer2.jpeg)
 
 - [x] pln:
 
@@ -72,7 +72,7 @@ $ yarn start # start app
 
 ## API
 
-The API I used on this app, you can clone it here https://github.com/lathifinch/RESTful-API-for-Job-Posting-App.git
+The API I used on this app, you can clone it here https://github.com/lathifinch/OPO_digital_payment_backend
 
 ---
 
